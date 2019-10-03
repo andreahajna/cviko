@@ -14,6 +14,6 @@ Nas tim tvoria clenovia:
 
 1.Andrea Hajna
 2.
-3.
-4.
+3.Šimon	Drastich
+4.Roobo SternMuller
 
