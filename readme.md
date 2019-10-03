@@ -13,7 +13,7 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1.Andrea Hajna
-2.
+2.Michal Horvath
 3.
 4.
 
