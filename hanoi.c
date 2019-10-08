@@ -3,11 +3,12 @@
 void hanoi(int n, int a, int b)
 {
   if (n == 1) 
-    printf("posun kamen 1 z %d do %d\n", a, b);
+    printf("posun kamen 1 od %d do %d\n", a, b);
   else
   {
     hanoi(n - 1, a, 6 - a);
-    printf("posun kamen %d z %d do %d\n", n, a, b);
+    printf("posun kamen %d od %d do %d\n", n, a, b);
+    d
     hanoi(n - 1, 6 - (a + b), b);
   }
 }
